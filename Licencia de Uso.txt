@@ -1,0 +1,13 @@
+	LICENCIA DE SOFTWARE FREEWARE
+
+
+Este programa se distribuye como freeware. Este software
+se proporciona "tal cual", sin que se garantice su 
+idoneidad o integridad para cualquier uso. Puede 
+contener errores, por lo que el uso de esta herramienta
+es bajo su propio riesgo. Los autores No se hacen 
+responsables de cualquier daño que pueda causar 
+involuntariamente mediante su uso.
+ 
+Usted no puede distribuir LILA de ninguna forma sin 
+expresa autorización por escrito de los Autores.
